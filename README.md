@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ibrahim</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=2E9EFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;ASP.NET+Core+%7C+React.js+Developer;AI-Powered+Web+Applications;Competitive+Programmer" />
