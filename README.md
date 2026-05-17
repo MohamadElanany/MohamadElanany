@@ -94,7 +94,7 @@ https://github.com/MohamadElanany/Portfolio
 ## 🏆 Competitive Programming
 
 - ECPC Participant
-- Solved 900+ problems on online judges
+- Solved 1000+ problems on online judges
 - Strong foundation in Data Structures and Algorithms
 
 ### 🔗 Profiles
