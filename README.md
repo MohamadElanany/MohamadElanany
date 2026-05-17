@@ -9,13 +9,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student at Arab Open University - Egypt
-- 💻 Passionate about Software Engineering and Full-Stack Development
-- 🚀 Interested in scalable backend systems and modern web technologies
-- 🤖 Experienced in integrating AI into real-world web applications
-- 🧠 Competitive Programmer with strong problem-solving skills
-- 🌱 Currently improving my skills in System Design, ASP.NET Core, React.js, and scalable architectures
-- 🔍 Seeking Software Engineering Internship Opportunities
+-  Computer Science Student at Arab Open University - Egypt
+-  Passionate about Software Engineering and Full-Stack Development
+-  Interested in scalable backend systems and modern web technologies
+-  Experienced in integrating AI into real-world web applications
+-  Competitive Programmer with strong problem-solving skills
+-  Currently improving my skills in System Design, ASP.NET Core, React.js, and scalable architectures
+-  Seeking Software Engineering Internship Opportunities
 
 ---
 
