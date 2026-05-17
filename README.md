@@ -2,9 +2,7 @@
 <h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  <a href="https://github.com/MohamadElanany">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=2E9EFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;ASP.NET+Core+%7C+React.js+Developer;AI-Powered+Web+Application+Developer;Competitive+Programmer" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=2E9EFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;ASP.NET+Core+%7C+React.js+Developer;AI-Powered+Web+Applications;Competitive+Programmer" />
 </p>
 
 ---
@@ -12,36 +10,60 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Student at Arab Open University - Egypt
-- 💻 Passionate about Software Engineering and Full-Stack Web Development
-- 🚀 Focused on building scalable web applications and backend systems
-- 🤖 Experienced in integrating AI models into real-world web applications
+- 💻 Passionate about Software Engineering and Full-Stack Development
+- 🚀 Interested in scalable backend systems and modern web technologies
+- 🤖 Experienced in integrating AI into real-world web applications
 - 🧠 Competitive Programmer with strong problem-solving skills
 - 🌱 Currently improving my skills in System Design, ASP.NET Core, React.js, and scalable architectures
 - 🔍 Seeking Software Engineering Internship Opportunities
 
 ---
 
-## 🌿 Featured Project
+## 🌿 Featured Projects
 
-# AgriGuard
-### Intelligent System for Plant Disease Diagnosis and Smart Crop Management
+### 🔹 AgriGuard
+**Intelligent System for Plant Disease Diagnosis and Smart Crop Management**
 
-AgriGuard is a full-stack AI-powered agricultural platform designed to help farmers and gardeners diagnose plant diseases, manage crop care tasks, and interact through a community platform.
+AI-powered agricultural platform integrating:
+- React.js frontend
+- ASP.NET Core backend
+- FastAPI AI microservice
+- TensorFlow/Keras model
 
-### 🔗 Main Repository
-👉 https://github.com/MohamadElanany/AgriGuard
+🔗 Repository:  
+https://github.com/MohamadElanany/AgriGuard
 
-### ⚡ Key Features
-- AI-powered plant disease diagnosis
-- Smart crop scheduling and task management
-- Community platform with posts and interactions
-- JWT Authentication & Authorization
-- Gemini AI treatment recommendations
-- Admin dashboard and analytics
-- Microservices architecture using FastAPI and ASP.NET Core
+---
 
-### 🛠️ Technologies
-React.js • ASP.NET Core • FastAPI • TensorFlow • SQL Server • Tailwind CSS
+### 🔹 Full-Stack E-Commerce Platform
+
+Full-stack e-commerce system built using:
+- Angular
+- Node.js / Express
+- MongoDB
+
+Features include:
+- JWT Authentication
+- Shopping Cart & Checkout
+- Admin Dashboard
+- Order Management
+- Customer Testimonials
+
+🔗 Repository:  
+https://github.com/MohamadElanany/fullstack-ecommerce
+
+---
+
+### 🔹 Full-Stack Portfolio Dashboard
+
+Personal portfolio web application with:
+- Angular frontend
+- Express backend
+- MongoDB database
+- Admin dashboard for dynamic content management
+
+🔗 Repository:  
+https://github.com/MohamadElanany/Portfolio
 
 ---
 
@@ -49,7 +71,7 @@ React.js • ASP.NET Core • FastAPI • TensorFlow • SQL Server • Tailwind
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,bootstrap,vite" />
 </p>
 
 ### Backend
@@ -72,22 +94,12 @@ React.js • ASP.NET Core • FastAPI • TensorFlow • SQL Server • Tailwind
 ## 🏆 Competitive Programming
 
 - ECPC Participant
-- Solved 900+ problems on Codeforces, LeetCode, and online judges
+- Solved 900+ problems on online judges
 - Strong foundation in Data Structures and Algorithms
 
 ### 🔗 Profiles
 - Codeforces: https://codeforces.com/profile/Mohamed__Ibrahim
 - LeetCode: https://leetcode.com/u/MohamedIbarhim/
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamadElanany&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadElanany&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
 
 ---
 
@@ -102,7 +114,7 @@ React.js • ASP.NET Core • FastAPI • TensorFlow • SQL Server • Tailwind
 ## 📫 Connect With Me
 
 <p>
-  <a href="mailto:mohamedelanany2255@gmail.com">
+  <a href="mailto:mohamed.ebrahim.swe@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
